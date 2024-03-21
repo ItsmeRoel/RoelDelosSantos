@@ -1,0 +1,120 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(Icons/real_bg_.png);
+    background-attachment: fixed;
+    background-size: cover;
+    
+   
+}
+
+.likod{
+  width: 200px;
+  background-image: url(Icons/real_bg_.png);
+
+
+
+}
+
+
+.mainicon{
+    max-height: 300px;
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
+
+.unicon {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+}
+
+.fb{
+    float: left;
+    padding-left:0px;
+}
+.fb:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+
+.ig{
+    float: left;    
+}
+.ig:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+
+.messenger{
+    float: left;    
+}
+.messenger:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+
+.pinterests{
+    float: left;
+}
+.pinterests:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+
+.tiktoks{
+    float: left;    
+}
+.tiktoks:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+
+.treadss{
+    float: left;  
+}
+.treadss:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+
+
+.xs{
+    float: left;   
+}
+.xs:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+
+.ytube{
+    float: left;   
+}
+.ytube:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+
+
+.emil:hover{
+  
+    scale: 1.5;
+    transition: .40s;
+}
+
+
+.call{
+    font-family: Tahoma;
+    color:#0a3734 ;
+}
+.phone{
+    text-decoration: none; 
+    color: #ef870b; 
+    
+}
+.phone:hover{
+    scale: 1.5;
+    transition: .40s;
+   
+}
